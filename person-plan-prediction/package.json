@@ -1,11 +1,11 @@
 {
-  "name": "ai-lab-typescript",
+  "name": "person-plan-prediction",
   "version": "1.0.0",
   "description": "",
   "type": "module",
   "main": "index.ts",
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "start": "ts-node index.ts"
   },
   "keywords": [],
   "author": "",
